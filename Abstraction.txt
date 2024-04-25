@@ -1,1 +1,5 @@
 Grievance Connect App
+We're developing a social media platform where local residents can connect, share grievances, and promote community safety.
+Users can post concerns like road issues or crime alerts, with the most upvoted ones gaining attention from local authorities.
+With features like content verification and neighborhood-based alerts, the platform promotes trust and unity among residents.
+By amplifying community voices, we aim to create safer, more responsive neighborhoods where everyone's concerns are heard and addressed.

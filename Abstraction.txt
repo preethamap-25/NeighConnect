@@ -3,3 +3,19 @@ We're developing a social media platform where local residents can connect, shar
 Users can post concerns like road issues or crime alerts, with the most upvoted ones gaining attention from local authorities.
 With features like content verification and neighborhood-based alerts, the platform promotes trust and unity among residents.
 By amplifying community voices, we aim to create safer, more responsive neighborhoods where everyone's concerns are heard and addressed.
+
+Introduction
+	Our platform provides a space for individuals to voice their grievances within their communities. Users can submit their concern, initiating discussions that expedite problem and also track progress of the reported issue. This collaborative approach accelerates action on community issues. 
+
+Aim of the Project
+	The aim of this project is to create an online platform where individuals can easily voice their grievances within their communities. By facilitating discussions and collaboration, the platform aims to accelerate the resolution of community issues, ultimately leading to faster problem-solving and improved community engagement.
+
+Technology Involved
+	For developing our app, we have used few of the widely-used, easy to understand languages and databases. They are:
+•	Frontend: Flutter
+•	Backend: 
+•	Database: 
+Achievements 
+	The following are few of the achievements of our project:
+•	
+•	
